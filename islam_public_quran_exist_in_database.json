@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "language": "Indonesian",
+    "name": "Quraish Shihab"
+  },
+  {
+    "id": 2,
+    "language": "Indonesian",
+    "name": "Bahasa Indonesia"
+  },
+  {
+    "id": 3,
+    "language": "Malay",
+    "name": "Basmeih"
+  },
+  {
+    "id": 4,
+    "language": "Russian",
+    "name": "Крачковский"
+  },
+  {
+    "id": 5,
+    "language": "Russian",
+    "name": "Абу Адель"
+  },
+  {
+    "id": 6,
+    "language": "Russian",
+    "name": "Аль-Мунтахаб"
+  },
+  {
+    "id": 7,
+    "language": "Russian",
+    "name": "Саблуков"
+  },
+  {
+    "id": 8,
+    "language": "Russian",
+    "name": "Кулиев"
+  },
+  {
+    "id": 9,
+    "language": "Russian",
+    "name": "Османов"
+  },
+  {
+    "id": 10,
+    "language": "Russian",
+    "name": "Порохова"
+  },
+  {
+    "id": 11,
+    "language": "Chinese",
+    "name": "Ma Jian"
+  },
+  {
+    "id": 12,
+    "language": "Chinese",
+    "name": "Ma Jian (Traditional)"
+  },
+  {
+    "id": 13,
+    "language": "Urdu",
+    "name": "محمد جوناگڑھی"
+  },
+  {
+    "id": 14,
+    "language": "Urdu",
+    "name": "ابوالاعلی مودودی"
+  },
+  {
+    "id": 15,
+    "language": "Urdu",
+    "name": "احمد علی"
+  },
+  {
+    "id": 16,
+    "language": "Urdu",
+    "name": "جالندہری"
+  },
+  {
+    "id": 17,
+    "language": "Urdu",
+    "name": "احمد رضا خان"
+  },
+  {
+    "id": 18,
+    "language": "Urdu",
+    "name": "علامہ جوادی"
+  },
+  {
+    "id": 19,
+    "language": "Urdu",
+    "name": "طاہر القادری"
+  },
+  {
+    "id": 20,
+    "language": "Persian",
+    "name": "خرمدل"
+  },
+  {
+    "id": 21,
+    "language": "Persian",
+    "name": "معزی"
+  },
+  {
+    "id": 22,
+    "language": "Persian",
+    "name": "آیتی"
+  },
+  {
+    "id": 23,
+    "language": "Persian",
+    "name": "الهی قمشه\u200Cای"
+  },
+  {
+    "id": 24,
+    "language": "Persian",
+    "name": "فولادوند"
+  },
+  {
+    "id": 25,
+    "language": "Persian",
+    "name": "مکارم شیرازی"
+  },
+  {
+    "id": 26,
+    "language": "Persian",
+    "name": "انصاریان"
+  },
+  {
+    "id": 27,
+    "language": "Persian",
+    "name": "بهرام پور"
+  },
+  {
+    "id": 28,
+    "language": "Persian",
+    "name": "خرمشاهی"
+  },
+  {
+    "id": 29,
+    "language": "Persian",
+    "name": "مجتبوی"
+  },
+  {
+    "id": 30,
+    "language": "Bosnian",
+    "name": "Korkut"
+  },
+  {
+    "id": 31,
+    "language": "Bosnian",
+    "name": "Mlivo"
+  },
+  {
+    "id": 32,
+    "language": "Arabic",
+    "name": "Simple"
+  },
+  {
+    "id": 33,
+    "language": "Arabic",
+    "name": "Tajweed"
+  },
+  {
+    "id": 34,
+    "language": "Arabic",
+    "name": "Uthamani"
+  },
+  {
+    "id": 35,
+    "language": "Arabic",
+    "name": "Simple Clean"
+  },
+  {
+    "id": 36,
+    "language": "Arabic",
+    "name": "Simple Enhanced"
+  },
+  {
+    "id": 37,
+    "language": "Arabic",
+    "name": "Simple Minimal"
+  },
+  {
+    "id": 38,
+    "language": "Arabic",
+    "name": "Uthmani Minimal"
+  },
+  {
+    "id": 39,
+    "language": "Arabic",
+    "name": "تفسير الجلالين"
+  },
+  {
+    "id": 40,
+    "language": "Arabic",
+    "name": "تفسير المیسر"
+  },
+  {
+    "id": 41,
+    "language": "none",
+    "name": "none"
+  },
+  {
+    "id": 42,
+    "language": "Bangla",
+    "name": "মুহিউদ্দীন খান"
+  },
+  {
+    "id": 43,
+    "language": "English",
+    "name": "Arberry"
+  },
+  {
+    "id": 44,
+    "language": "English",
+    "name": "Ahmed Ali"
+  },
+  {
+    "id": 45,
+    "language": "English",
+    "name": "Asad"
+  },
+  {
+    "id": 46,
+    "language": "English",
+    "name": "Ahmed Raza Khan"
+  },
+  {
+    "id": 47,
+    "language": "English",
+    "name": "Sarwar"
+  },
+  {
+    "id": 48,
+    "language": "English",
+    "name": "Daryabadi"
+  },
+  {
+    "id": 49,
+    "language": "English",
+    "name": "Pickthall"
+  },
+  {
+    "id": 50,
+    "language": "English",
+    "name": "Saheeh International"
+  },
+  {
+    "id": 51,
+    "language": "English",
+    "name": "Yusuf Ali"
+  },
+  {
+    "id": 52,
+    "language": "English",
+    "name": "Hilali & Khan"
+  },
+  {
+    "id": 53,
+    "language": "English",
+    "name": "Shakir"
+  },
+  {
+    "id": 54,
+    "language": "English",
+    "name": "Maududi"
+  },
+  {
+    "id": 55,
+    "language": "English",
+    "name": "Qaribullah & Darwish"
+  },
+  {
+    "id": 56,
+    "language": "English",
+    "name": "Transliteration"
+  },
+  {
+    "id": 57,
+    "language": "Czech",
+    "name": "Hrbek"
+  },
+  {
+    "id": 58,
+    "language": "Czech",
+    "name": "Nykl"
+  },
+  {
+    "id": 59,
+    "language": "Azerbaijani",
+    "name": "Musayev"
+  },
+  {
+    "id": 60,
+    "language": "Azerbaijani",
+    "name": "Məmmədəliyev & Bünyadov"
+  },
+  {
+    "id": 61,
+    "language": "Bulgarian",
+    "name": "Теофанов"
+  },
+  {
+    "id": 62,
+    "language": "German",
+    "name": "Abu Rida"
+  },
+  {
+    "id": 63,
+    "language": "German",
+    "name": "Khoury"
+  },
+  {
+    "id": 64,
+    "language": "German",
+    "name": "Zaidan"
+  },
+  {
+    "id": 65,
+    "language": "German",
+    "name": "Bubenheim & Elyas"
+  },
+  {
+    "id": 66,
+    "language": "Spain",
+    "name": "Cortes"
+  },
+  {
+    "id": 67,
+    "language": "Spain",
+    "name": "Asad"
+  },
+  {
+    "id": 68,
+    "language": "Maldivian",
+    "name": "ދިވެހި"
+  },
+  {
+    "id": 69,
+    "language": "French",
+    "name": "Hamidullah"
+  },
+  {
+    "id": 70,
+    "language": "Hausa",
+    "name": "Gumi"
+  },
+  {
+    "id": 71,
+    "language": "Hindi",
+    "name": "फ़ारूक़ ख़ान & नदवी"
+  },
+  {
+    "id": 72,
+    "language": "Hindi",
+    "name": "फ़ारूक़ ख़ान & अहमद"
+  },
+  {
+    "id": 73,
+    "language": "Japanese",
+    "name": "Japanese"
+  },
+  {
+    "id": 74,
+    "language": "Korean",
+    "name": "Korean"
+  },
+  {
+    "id": 75,
+    "language": "Kurdish",
+    "name": "ته\u200Cفسیری ئاسان"
+  },
+  {
+    "id": 76,
+    "language": "Malayalam",
+    "name": "അബ്ദുല്\u200D ഹമീദ് & പറപ്പൂര്\u200D"
+  },
+  {
+    "id": 77,
+    "language": "Dutch",
+    "name": "Keyzer"
+  },
+  {
+    "id": 78,
+    "language": "Norwegian",
+    "name": "Einar Berg"
+  },
+  {
+    "id": 79,
+    "language": "Polish",
+    "name": "Bielawskiego"
+  },
+  {
+    "id": 80,
+    "language": "Portuguese",
+    "name": "El-Hayek"
+  },
+  {
+    "id": 81,
+    "language": "Moldovan",
+    "name": "Grigore"
+  },
+  {
+    "id": 82,
+    "language": "Sindhi",
+    "name": "امروٽي"
+  },
+  {
+    "id": 83,
+    "language": "Somali",
+    "name": "Abduh"
+  },
+  {
+    "id": 84,
+    "language": "Albanian",
+    "name": "Sherif Ahmeti"
+  },
+  {
+    "id": 85,
+    "language": "Albanian",
+    "name": "Feti Mehdiu"
+  },
+  {
+    "id": 86,
+    "language": "Albanian",
+    "name": "Efendi Nahi"
+  },
+  {
+    "id": 87,
+    "language": "Swedish",
+    "name": "Bernström"
+  },
+  {
+    "id": 88,
+    "language": "Swahili",
+    "name": "Al-Barwani"
+  },
+  {
+    "id": 89,
+    "language": "Tamil",
+    "name": "ஜான் டிரஸ்ட்"
+  },
+  {
+    "id": 90,
+    "language": "Turkish",
+    "name": "Süleyman Ateş"
+  },
+  {
+    "id": 91,
+    "language": "Turkish",
+    "name": "Alİ Bulaç"
+  },
+  {
+    "id": 92,
+    "language": "Turkish",
+    "name": "Diyanet İşleri"
+  },
+  {
+    "id": 93,
+    "language": "Turkish",
+    "name": "Abdulbakî Gölpınarlı"
+  },
+  {
+    "id": 94,
+    "language": "Turkish",
+    "name": "Öztürk"
+  },
+  {
+    "id": 95,
+    "language": "Turkish",
+    "name": "Edip Yüksel"
+  },
+  {
+    "id": 96,
+    "language": "Turkish",
+    "name": "Çeviriyazı"
+  },
+  {
+    "id": 97,
+    "language": "Turkish",
+    "name": "Diyanet Vakfı"
+  },
+  {
+    "id": 98,
+    "language": "Turkish",
+    "name": "Elmalılı Hamdi Yazır"
+  },
+  {
+    "id": 99,
+    "language": "Turkish",
+    "name": "Suat Yıldırım"
+  },
+  {
+    "id": 100,
+    "language": "Tajik",
+    "name": "Оятӣ"
+  },
+  {
+    "id": 101,
+    "language": "Thai",
+    "name": "ภาษาไทย"
+  },
+  {
+    "id": 102,
+    "language": "Tatar",
+    "name": "Yakub Ibn Nugman"
+  },
+  {
+    "id": 103,
+    "language": "Uyghur",
+    "name": "محمد صالح"
+  },
+  {
+    "id": 104,
+    "language": "Uzbek",
+    "name": "Мухаммад Содик"
+  },
+  {
+    "id": 105,
+    "language": "Italian",
+    "name": "Piccardo"
+  },
+  {
+    "id": 122,
+    "language": "Arabic",
+    "name": "Muhammad Jibreel"
+  },
+  {
+    "id": 123,
+    "language": "Arabic",
+    "name": "Saood bin Ibraaheem Ash-Shuraym"
+  },
+  {
+    "id": 120,
+    "language": "Arabic",
+    "name": "Minshawy (Mujawwad)"
+  },
+  {
+    "id": 121,
+    "language": "Arabic",
+    "name": "Muhammad Ayyoub"
+  },
+  {
+    "id": 131,
+    "language": "Arabic",
+    "name": "Corpus"
+  },
+  {
+    "id": 130,
+    "language": "Arabic",
+    "name": "Kids"
+  },
+  {
+    "id": 133,
+    "language": "Arabic",
+    "name": "Buck"
+  },
+  {
+    "id": 135,
+    "language": "Arabic",
+    "name": "أيمن سويد"
+  },
+  {
+    "id": 126,
+    "language": "Arabic",
+    "name": "Parhizgar"
+  },
+  {
+    "id": 113,
+    "language": "Arabic",
+    "name": "Hani Rifai"
+  },
+  {
+    "id": 112,
+    "language": "Arabic",
+    "name": "Alafasy"
+  },
+  {
+    "id": 115,
+    "language": "Arabic",
+    "name": "Husary (Mujawwad)"
+  },
+  {
+    "id": 114,
+    "language": "Arabic",
+    "name": "Husary"
+  },
+  {
+    "id": 117,
+    "language": "Arabic",
+    "name": "Ibrahim Akhdar"
+  },
+  {
+    "id": 116,
+    "language": "Arabic",
+    "name": "Hudhaify"
+  },
+  {
+    "id": 119,
+    "language": "Arabic",
+    "name": "Minshawi"
+  },
+  {
+    "id": 118,
+    "language": "Arabic",
+    "name": "Maher Al Muaiqly"
+  },
+  {
+    "id": 107,
+    "language": "Arabic",
+    "name": "Abdullah Basfar"
+  },
+  {
+    "id": 106,
+    "language": "Arabic",
+    "name": "Abdul Basit"
+  },
+  {
+    "id": 109,
+    "language": "Arabic",
+    "name": "Abdul Samad"
+  },
+  {
+    "id": 108,
+    "language": "Arabic",
+    "name": "Abdurrahmaan As-Sudais"
+  },
+  {
+    "id": 111,
+    "language": "Arabic",
+    "name": "Ahmed ibn Ali al-Ajamy"
+  },
+  {
+    "id": 124,
+    "language": "en",
+    "name": "Ibrahim Walk"
+  },
+  {
+    "id": 125,
+    "language": "fa",
+    "name": "Fooladvand - Hedayatfar"
+  },
+  {
+    "id": 127,
+    "language": "ur",
+    "name": "Shamshad Ali Khan"
+  },
+  {
+    "id": 128,
+    "language": "zh",
+    "name": "中文"
+  },
+  {
+    "id": 129,
+    "language": "fr",
+    "name": "Youssouf Leclerc"
+  },
+  {
+    "id": 132,
+    "language": "si",
+    "name": "Naseem Ismail"
+  },
+  {
+    "id": 134,
+    "language": "zh",
+    "name": "Ma Zhong Gang"
+  },
+  {
+    "id": 110,
+    "language": "Arabic",
+    "name": "Abu Bakr Ash-Shaatree"
+  }
+]
