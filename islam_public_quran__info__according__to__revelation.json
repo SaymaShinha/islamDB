@@ -6,7 +6,7 @@
     "surah_ar_name": "سُورَةُ ٱلْفَاتِحَةِ",
     "surah_en_name": "Al-Faatiha",
     "surah_en_name_translation": "The Opening",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 7,
     "note": ""
   },
@@ -17,7 +17,7 @@
     "surah_ar_name": "سورة البقرة",
     "surah_en_name": "Al-Baqara",
     "surah_en_name_translation": "The Cow",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 286,
     "note": "Except 281 from Mina at the time of the Last Hajj"
   },
@@ -28,7 +28,7 @@
     "surah_ar_name": "سورة آل عمران",
     "surah_en_name": "Aal-i-Imraan",
     "surah_en_name_translation": "The Family of Imraan",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 200,
     "note": ""
   },
@@ -39,7 +39,7 @@
     "surah_ar_name": "سورة النساء",
     "surah_en_name": "An-Nisaa",
     "surah_en_name_translation": "The Women",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 176,
     "note": ""
   },
@@ -50,7 +50,7 @@
     "surah_ar_name": "سورة المائدة",
     "surah_en_name": "Al-Maaida",
     "surah_en_name_translation": "The Table",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 120,
     "note": "Except 3, revealed at Arafat on Last Hajj"
   },
@@ -61,7 +61,7 @@
     "surah_ar_name": "سورة الأنعام",
     "surah_en_name": "Al-An'aam",
     "surah_en_name_translation": "The Cattle",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 165,
     "note": "Except 20, 23, 91, 93, 114, 151, 152, 153, from Medina"
   },
@@ -72,7 +72,7 @@
     "surah_ar_name": "سورة الأعراف",
     "surah_en_name": "Al-A'raaf",
     "surah_en_name_translation": "The Heights",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 206,
     "note": "Except 163-170, from Medina"
   },
@@ -83,7 +83,7 @@
     "surah_ar_name": "سورة الأنفال",
     "surah_en_name": "Al-Anfaal",
     "surah_en_name_translation": "The Spoils of War",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 75,
     "note": "Except 30-36 from Mecca"
   },
@@ -94,7 +94,7 @@
     "surah_ar_name": "سورة التوبة",
     "surah_en_name": "At-Tawba",
     "surah_en_name_translation": "The Repentance",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 129,
     "note": "Except last two verses from Mecca"
   },
@@ -105,7 +105,7 @@
     "surah_ar_name": "سورة يونس",
     "surah_en_name": "Yunus",
     "surah_en_name_translation": "Jonas",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 109,
     "note": "Except 40, 94, 95, 96, from Medina"
   },
@@ -116,7 +116,7 @@
     "surah_ar_name": "سورة هود",
     "surah_en_name": "Hud",
     "surah_en_name_translation": "Hud",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 123,
     "note": "Except 12, 17, 114, from Medina"
   },
@@ -127,7 +127,7 @@
     "surah_ar_name": "سورة يوسف",
     "surah_en_name": "Yusuf",
     "surah_en_name_translation": "Joseph",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 111,
     "note": "Except 1, 2, 3, 7, from Medina"
   },
@@ -138,7 +138,7 @@
     "surah_ar_name": "سورة الرعد",
     "surah_en_name": "Ar-Ra'd",
     "surah_en_name_translation": "The Thunder",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 43,
     "note": ""
   },
@@ -149,7 +149,7 @@
     "surah_ar_name": "سورة ابراهيم",
     "surah_en_name": "Ibrahim",
     "surah_en_name_translation": "Abraham",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 52,
     "note": "Except 28, 29, from Medina"
   },
@@ -160,7 +160,7 @@
     "surah_ar_name": "سورة الحجر",
     "surah_en_name": "Al-Hijr",
     "surah_en_name_translation": "The Rock",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 99,
     "note": "Except 87, from Medina"
   },
@@ -171,7 +171,7 @@
     "surah_ar_name": "سورة النحل",
     "surah_en_name": "An-Nahl",
     "surah_en_name_translation": "The Bee",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 128,
     "note": "Except the last three verses from Medina"
   },
@@ -182,7 +182,7 @@
     "surah_ar_name": "سورة الإسراء",
     "surah_en_name": "Al-Israa",
     "surah_en_name_translation": "The Night Journey",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 111,
     "note": "Except 26, 32, 33, 57, 73-80, from Medina"
   },
@@ -193,7 +193,7 @@
     "surah_ar_name": "سورة الكهف",
     "surah_en_name": "Al-Kahf",
     "surah_en_name_translation": "The Cave",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 110,
     "note": "Except 28, 83-101, from Medina"
   },
@@ -204,7 +204,7 @@
     "surah_ar_name": "سورة مريم",
     "surah_en_name": "Maryam",
     "surah_en_name_translation": "Mary",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 98,
     "note": "Except 58 and 71, from Medina"
   },
@@ -215,7 +215,7 @@
     "surah_ar_name": "سورة طه",
     "surah_en_name": "Taa-Haa",
     "surah_en_name_translation": "Taa-Haa",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 135,
     "note": "Except 130 and 131, from Medina"
   },
@@ -226,7 +226,7 @@
     "surah_ar_name": "سورة الأنبياء",
     "surah_en_name": "Al-Anbiyaa",
     "surah_en_name_translation": "The Prophets",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 112,
     "note": ""
   },
@@ -237,7 +237,7 @@
     "surah_ar_name": "سورة الحج",
     "surah_en_name": "Al-Hajj",
     "surah_en_name_translation": "The Pilgrimage",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 78,
     "note": "Except 52-55, revealed between Mecca and Medina"
   },
@@ -248,7 +248,7 @@
     "surah_ar_name": "سورة المؤمنون",
     "surah_en_name": "Al-Muminoon",
     "surah_en_name_translation": "The Believers",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 118,
     "note": ""
   },
@@ -259,7 +259,7 @@
     "surah_ar_name": "سورة النور",
     "surah_en_name": "An-Noor",
     "surah_en_name_translation": "The Light",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 64,
     "note": ""
   },
@@ -270,7 +270,7 @@
     "surah_ar_name": "سورة الفرقان",
     "surah_en_name": "Al-Furqaan",
     "surah_en_name_translation": "The Criterion",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 77,
     "note": "Except 68-70, from Medina"
   },
@@ -281,7 +281,7 @@
     "surah_ar_name": "سورة الشعراء",
     "surah_en_name": "Ash-Shu'araa",
     "surah_en_name_translation": "The Poets",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 227,
     "note": "Except 197 and 224-227, from Medina"
   },
@@ -292,7 +292,7 @@
     "surah_ar_name": "سورة النمل",
     "surah_en_name": "An-Naml",
     "surah_en_name_translation": "The Ant",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 93,
     "note": ""
   },
@@ -303,7 +303,7 @@
     "surah_ar_name": "سورة القصص",
     "surah_en_name": "Al-Qasas",
     "surah_en_name_translation": "The Stories",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 88,
     "note": "Except 52-55 from Medina and 85 from Juhfa at the time of the Hijra"
   },
@@ -314,7 +314,7 @@
     "surah_ar_name": "سورة العنكبوت",
     "surah_en_name": "Al-Ankaboot",
     "surah_en_name_translation": "The Spider",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 69,
     "note": "Except 1-11, from Medina"
   },
@@ -325,7 +325,7 @@
     "surah_ar_name": "سورة الروم",
     "surah_en_name": "Ar-Room",
     "surah_en_name_translation": "The Romans",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 60,
     "note": "Except 17, from Medina"
   },
@@ -336,7 +336,7 @@
     "surah_ar_name": "سورة لقمان",
     "surah_en_name": "Luqman",
     "surah_en_name_translation": "Luqman",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 34,
     "note": "Except 27-29, from Medina"
   },
@@ -347,7 +347,7 @@
     "surah_ar_name": "سورة السجدة",
     "surah_en_name": "As-Sajda",
     "surah_en_name_translation": "The Prostration",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 30,
     "note": "Except 16-20, from Medina"
   },
@@ -358,7 +358,7 @@
     "surah_ar_name": "سورة الأحزاب",
     "surah_en_name": "Al-Ahzaab",
     "surah_en_name_translation": "The Clans",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 73,
     "note": ""
   },
@@ -369,7 +369,7 @@
     "surah_ar_name": "سورة سَبَأ",
     "surah_en_name": "Saba",
     "surah_en_name_translation": "Sheba",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 54,
     "note": ""
   },
@@ -380,7 +380,7 @@
     "surah_ar_name": "سورة فاطر",
     "surah_en_name": "Faatir",
     "surah_en_name_translation": "The Originator",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 45,
     "note": ""
   },
@@ -391,7 +391,7 @@
     "surah_ar_name": "سورة يس",
     "surah_en_name": "Yaseen",
     "surah_en_name_translation": "Yaseen",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 83,
     "note": "Except 45, from Medina"
   },
@@ -402,7 +402,7 @@
     "surah_ar_name": "سورة الصافات",
     "surah_en_name": "As-Saaffaat",
     "surah_en_name_translation": "Those drawn up in Ranks",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 182,
     "note": ""
   },
@@ -413,7 +413,7 @@
     "surah_ar_name": "سورة ص",
     "surah_en_name": "Saad",
     "surah_en_name_translation": "The letter Saad",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 88,
     "note": ""
   },
@@ -424,7 +424,7 @@
     "surah_ar_name": "سورة الزمر",
     "surah_en_name": "Az-Zumar",
     "surah_en_name_translation": "The Groups",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 75,
     "note": ""
   },
@@ -435,7 +435,7 @@
     "surah_ar_name": "سورة غافر",
     "surah_en_name": "Ghafir",
     "surah_en_name_translation": "The Forgiver",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 85,
     "note": "Except 56, 57, from Medina"
   },
@@ -446,7 +446,7 @@
     "surah_ar_name": "سورة فصلت",
     "surah_en_name": "Fussilat",
     "surah_en_name_translation": "Explained in detail",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 54,
     "note": ""
   },
@@ -457,7 +457,7 @@
     "surah_ar_name": "سورة الشورى",
     "surah_en_name": "Ash-Shura",
     "surah_en_name_translation": "Consultation",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 53,
     "note": "Except 23, 24, 25, 27, from Medina"
   },
@@ -468,7 +468,7 @@
     "surah_ar_name": "سورة الزخرف",
     "surah_en_name": "Az-Zukhruf",
     "surah_en_name_translation": "Ornaments of gold",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 89,
     "note": "Except 54, from Medina"
   },
@@ -479,7 +479,7 @@
     "surah_ar_name": "سورة الدخان",
     "surah_en_name": "Ad-Dukhaan",
     "surah_en_name_translation": "The Smoke",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 59,
     "note": ""
   },
@@ -490,7 +490,7 @@
     "surah_ar_name": "سورة الجاثية",
     "surah_en_name": "Al-Jaathiya",
     "surah_en_name_translation": "Crouching",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 37,
     "note": "Except 14, from Medina"
   },
@@ -501,7 +501,7 @@
     "surah_ar_name": "سورة الأحقاف",
     "surah_en_name": "Al-Ahqaf",
     "surah_en_name_translation": "The Dunes",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 35,
     "note": "Except 10, 15, 35, from Medina"
   },
@@ -512,7 +512,7 @@
     "surah_ar_name": "سورة محمد",
     "surah_en_name": "Muhammad",
     "surah_en_name_translation": "Muhammad",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 38,
     "note": "Except 13, revealed during the Prophet's Hijrah"
   },
@@ -523,7 +523,7 @@
     "surah_ar_name": "سورة الفتح",
     "surah_en_name": "Al-Fath",
     "surah_en_name_translation": "The Victory",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 29,
     "note": "Revealed while returning from Hudaybiyya"
   },
@@ -534,7 +534,7 @@
     "surah_ar_name": "سورة الحجرات",
     "surah_en_name": "Al-Hujuraat",
     "surah_en_name_translation": "The Inner Apartments",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 18,
     "note": ""
   },
@@ -545,7 +545,7 @@
     "surah_ar_name": "سورة ق",
     "surah_en_name": "Qaaf",
     "surah_en_name_translation": "The letter Qaaf",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 45,
     "note": "Except 38, from Medina"
   },
@@ -556,7 +556,7 @@
     "surah_ar_name": "سورة الذاريات",
     "surah_en_name": "Adh-Dhaariyat",
     "surah_en_name_translation": "The Winnowing Winds",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 60,
     "note": ""
   },
@@ -567,7 +567,7 @@
     "surah_ar_name": "سورة الطور",
     "surah_en_name": "At-Tur",
     "surah_en_name_translation": "The Mount",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 49,
     "note": ""
   },
@@ -578,7 +578,7 @@
     "surah_ar_name": "سورة النجم",
     "surah_en_name": "An-Najm",
     "surah_en_name_translation": "The Star",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 62,
     "note": "Except 32, from Medina"
   },
@@ -589,7 +589,7 @@
     "surah_ar_name": "سورة القمر",
     "surah_en_name": "Al-Qamar",
     "surah_en_name_translation": "The Moon",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 55,
     "note": "Except 44-46, from Medina"
   },
@@ -600,7 +600,7 @@
     "surah_ar_name": "سورة الرحمن",
     "surah_en_name": "Ar-Rahmaan",
     "surah_en_name_translation": "The Beneficent",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 78,
     "note": ""
   },
@@ -611,7 +611,7 @@
     "surah_ar_name": "سورة الواقعة",
     "surah_en_name": "Al-Waaqia",
     "surah_en_name_translation": "The Inevitable",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 96,
     "note": "Except 81 and 82, from Medina"
   },
@@ -622,7 +622,7 @@
     "surah_ar_name": "سورة الحديد",
     "surah_en_name": "Al-Hadid",
     "surah_en_name_translation": "The Iron",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 29,
     "note": ""
   },
@@ -633,7 +633,7 @@
     "surah_ar_name": "سورة المجادلة",
     "surah_en_name": "Al-Mujaadila",
     "surah_en_name_translation": "The Pleading Woman",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 22,
     "note": ""
   },
@@ -644,7 +644,7 @@
     "surah_ar_name": "سورة الحشر",
     "surah_en_name": "Al-Hashr",
     "surah_en_name_translation": "The Exile",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 24,
     "note": ""
   },
@@ -655,7 +655,7 @@
     "surah_ar_name": "سورة الممتحنة",
     "surah_en_name": "Al-Mumtahana",
     "surah_en_name_translation": "She that is to be examined",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 13,
     "note": ""
   },
@@ -666,7 +666,7 @@
     "surah_ar_name": "سورة الصف",
     "surah_en_name": "As-Saff",
     "surah_en_name_translation": "The Ranks",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 14,
     "note": ""
   },
@@ -677,7 +677,7 @@
     "surah_ar_name": "سورة الجمعة",
     "surah_en_name": "Al-Jumu'a",
     "surah_en_name_translation": "Friday",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 11,
     "note": ""
   },
@@ -688,7 +688,7 @@
     "surah_ar_name": "سورة المنافقون",
     "surah_en_name": "Al-Munaafiqoon",
     "surah_en_name_translation": "The Hypocrites",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 11,
     "note": ""
   },
@@ -699,7 +699,7 @@
     "surah_ar_name": "سورة التغابن",
     "surah_en_name": "At-Taghaabun",
     "surah_en_name_translation": "Mutual Disillusion",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 18,
     "note": ""
   },
@@ -710,7 +710,7 @@
     "surah_ar_name": "سورة الطلاق",
     "surah_en_name": "At-Talaaq",
     "surah_en_name_translation": "Divorce",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 12,
     "note": ""
   },
@@ -721,7 +721,7 @@
     "surah_ar_name": "سورة التحريم",
     "surah_en_name": "At-Tahrim",
     "surah_en_name_translation": "The Prohibition",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 12,
     "note": ""
   },
@@ -732,7 +732,7 @@
     "surah_ar_name": "سورة الملك",
     "surah_en_name": "Al-Mulk",
     "surah_en_name_translation": "The Sovereignty",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 30,
     "note": ""
   },
@@ -743,7 +743,7 @@
     "surah_ar_name": "سورة القلم",
     "surah_en_name": "Al-Qalam",
     "surah_en_name_translation": "The Pen",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 52,
     "note": "Except 17-33 and 48-50, from Medina"
   },
@@ -754,7 +754,7 @@
     "surah_ar_name": "سورة الحاقة",
     "surah_en_name": "Al-Haaqqa",
     "surah_en_name_translation": "The Reality",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 52,
     "note": ""
   },
@@ -765,7 +765,7 @@
     "surah_ar_name": "سورة المعارج",
     "surah_en_name": "Al-Ma'aarij",
     "surah_en_name_translation": "The Ascending Stairways",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 44,
     "note": ""
   },
@@ -776,7 +776,7 @@
     "surah_ar_name": "سورة نوح",
     "surah_en_name": "Nooh",
     "surah_en_name_translation": "Noah",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 28,
     "note": ""
   },
@@ -787,7 +787,7 @@
     "surah_ar_name": "سورة الجن",
     "surah_en_name": "Al-Jinn",
     "surah_en_name_translation": "The Jinn",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 28,
     "note": ""
   },
@@ -798,7 +798,7 @@
     "surah_ar_name": "سورة المزمل",
     "surah_en_name": "Al-Muzzammil",
     "surah_en_name_translation": "The Enshrouded One",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 20,
     "note": "Except 10, 11 and 20, from Medina"
   },
@@ -809,7 +809,7 @@
     "surah_ar_name": "سورة المدثر",
     "surah_en_name": "Al-Muddaththir",
     "surah_en_name_translation": "The Cloaked One",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 56,
     "note": ""
   },
@@ -820,7 +820,7 @@
     "surah_ar_name": "سورة القيامة",
     "surah_en_name": "Al-Qiyaama",
     "surah_en_name_translation": "The Resurrection",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 40,
     "note": ""
   },
@@ -831,7 +831,7 @@
     "surah_ar_name": "سورة الانسان",
     "surah_en_name": "Al-Insaan",
     "surah_en_name_translation": "Man",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 31,
     "note": ""
   },
@@ -842,7 +842,7 @@
     "surah_ar_name": "سورة المرسلات",
     "surah_en_name": "Al-Mursalaat",
     "surah_en_name_translation": "The Emissaries",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 50,
     "note": "Except 48, from Medina"
   },
@@ -853,7 +853,7 @@
     "surah_ar_name": "سورة النبأ",
     "surah_en_name": "An-Naba",
     "surah_en_name_translation": "The Announcement",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 40,
     "note": ""
   },
@@ -864,7 +864,7 @@
     "surah_ar_name": "سورة النازعات",
     "surah_en_name": "An-Naazi'aat",
     "surah_en_name_translation": "Those who drag forth",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 46,
     "note": ""
   },
@@ -875,7 +875,7 @@
     "surah_ar_name": "سورة عبس",
     "surah_en_name": "Abasa",
     "surah_en_name_translation": "He frowned",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 42,
     "note": ""
   },
@@ -886,7 +886,7 @@
     "surah_ar_name": "سورة التكوير",
     "surah_en_name": "At-Takwir",
     "surah_en_name_translation": "The Overthrowing",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 29,
     "note": ""
   },
@@ -897,7 +897,7 @@
     "surah_ar_name": "سورة الإنفطار",
     "surah_en_name": "Al-Infitaar",
     "surah_en_name_translation": "The Cleaving",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 19,
     "note": ""
   },
@@ -908,7 +908,7 @@
     "surah_ar_name": "سورة المطففين",
     "surah_en_name": "Al-Mutaffifin",
     "surah_en_name_translation": "Defrauding",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 36,
     "note": ""
   },
@@ -919,7 +919,7 @@
     "surah_ar_name": "سورة الإنشقاق",
     "surah_en_name": "Al-Inshiqaaq",
     "surah_en_name_translation": "The Splitting Open",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 25,
     "note": ""
   },
@@ -930,7 +930,7 @@
     "surah_ar_name": "سورة البروج",
     "surah_en_name": "Al-Burooj",
     "surah_en_name_translation": "The Constellations",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 22,
     "note": ""
   },
@@ -941,7 +941,7 @@
     "surah_ar_name": "سورة الطارق",
     "surah_en_name": "At-Taariq",
     "surah_en_name_translation": "The Morning Star",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 17,
     "note": ""
   },
@@ -952,7 +952,7 @@
     "surah_ar_name": "سورة الأعلى",
     "surah_en_name": "Al-A'laa",
     "surah_en_name_translation": "The Most High",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 19,
     "note": ""
   },
@@ -963,7 +963,7 @@
     "surah_ar_name": "سورة الغاشية",
     "surah_en_name": "Al-Ghaashiya",
     "surah_en_name_translation": "The Overwhelming",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 26,
     "note": ""
   },
@@ -974,7 +974,7 @@
     "surah_ar_name": "سورة الفجر",
     "surah_en_name": "Al-Fajr",
     "surah_en_name_translation": "The Dawn",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 30,
     "note": ""
   },
@@ -985,7 +985,7 @@
     "surah_ar_name": "سورة البلد",
     "surah_en_name": "Al-Balad",
     "surah_en_name_translation": "The City",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 20,
     "note": ""
   },
@@ -996,7 +996,7 @@
     "surah_ar_name": "سورة الشمس",
     "surah_en_name": "Ash-Shams",
     "surah_en_name_translation": "The Sun",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 15,
     "note": ""
   },
@@ -1007,7 +1007,7 @@
     "surah_ar_name": "سورة الليل",
     "surah_en_name": "Al-Lail",
     "surah_en_name_translation": "The Night",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 21,
     "note": ""
   },
@@ -1018,7 +1018,7 @@
     "surah_ar_name": "سورة الضحى",
     "surah_en_name": "Ad-Dhuhaa",
     "surah_en_name_translation": "The Morning Hours",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 11,
     "note": ""
   },
@@ -1029,7 +1029,7 @@
     "surah_ar_name": "سورة الشرح",
     "surah_en_name": "Ash-Sharh",
     "surah_en_name_translation": "The Consolation",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 8,
     "note": ""
   },
@@ -1040,7 +1040,7 @@
     "surah_ar_name": "سورة التين",
     "surah_en_name": "At-Tin",
     "surah_en_name_translation": "The Fig",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 8,
     "note": ""
   },
@@ -1051,7 +1051,7 @@
     "surah_ar_name": "سورة العلق",
     "surah_en_name": "Al-Alaq",
     "surah_en_name_translation": "The Clot",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 19,
     "note": ""
   },
@@ -1062,7 +1062,7 @@
     "surah_ar_name": "سورة القدر",
     "surah_en_name": "Al-Qadr",
     "surah_en_name_translation": "The Power, Fate",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 5,
     "note": ""
   },
@@ -1073,7 +1073,7 @@
     "surah_ar_name": "سورة البينة",
     "surah_en_name": "Al-Bayyina",
     "surah_en_name_translation": "The Evidence",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 8,
     "note": ""
   },
@@ -1084,7 +1084,7 @@
     "surah_ar_name": "سورة الزلزلة",
     "surah_en_name": "Az-Zalzala",
     "surah_en_name_translation": "The Earthquake",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 8,
     "note": ""
   },
@@ -1095,7 +1095,7 @@
     "surah_ar_name": "سورة العاديات",
     "surah_en_name": "Al-Aadiyaat",
     "surah_en_name_translation": "The Chargers",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 11,
     "note": ""
   },
@@ -1106,7 +1106,7 @@
     "surah_ar_name": "سورة القارعة",
     "surah_en_name": "Al-Qaari'a",
     "surah_en_name_translation": "The Calamity",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 11,
     "note": ""
   },
@@ -1117,7 +1117,7 @@
     "surah_ar_name": "سورة التكاثر",
     "surah_en_name": "At-Takaathur",
     "surah_en_name_translation": "Competition",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 8,
     "note": ""
   },
@@ -1128,7 +1128,7 @@
     "surah_ar_name": "سورة العصر",
     "surah_en_name": "Al-Asr",
     "surah_en_name_translation": "The Declining Day, Epoch",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 3,
     "note": ""
   },
@@ -1139,7 +1139,7 @@
     "surah_ar_name": "سورة الهمزة",
     "surah_en_name": "Al-Humaza",
     "surah_en_name_translation": "The Traducer",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 9,
     "note": ""
   },
@@ -1150,7 +1150,7 @@
     "surah_ar_name": "سورة الفيل",
     "surah_en_name": "Al-Fil",
     "surah_en_name_translation": "The Elephant",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 5,
     "note": ""
   },
@@ -1161,7 +1161,7 @@
     "surah_ar_name": "سورة قريش",
     "surah_en_name": "Quraish",
     "surah_en_name_translation": "Quraysh",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 4,
     "note": ""
   },
@@ -1172,7 +1172,7 @@
     "surah_ar_name": "سورة الماعون",
     "surah_en_name": "Al-Maa'un",
     "surah_en_name_translation": "Almsgiving",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 7,
     "note": "Only 1-3 from Mecca; the rest from Medina"
   },
@@ -1183,7 +1183,7 @@
     "surah_ar_name": "سورة الكوثر",
     "surah_en_name": "Al-Kawthar",
     "surah_en_name_translation": "Abundance",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 3,
     "note": ""
   },
@@ -1194,7 +1194,7 @@
     "surah_ar_name": "سورة الكافرون",
     "surah_en_name": "Al-Kaafiroon",
     "surah_en_name_translation": "The Disbelievers",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 6,
     "note": ""
   },
@@ -1205,7 +1205,7 @@
     "surah_ar_name": "سورة النصر",
     "surah_en_name": "An-Nasr",
     "surah_en_name_translation": "Divine Support",
-    "location_of_revelation": "Medinan",
+    "revelation_type": "Medinan",
     "total_ayah": 3,
     "note": "Revealed at Mina on Last Hajj, but regarded as Medinan sura"
   },
@@ -1216,7 +1216,7 @@
     "surah_ar_name": "سورة المسد",
     "surah_en_name": "Al-Masad",
     "surah_en_name_translation": "The Palm Fibre",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 5,
     "note": ""
   },
@@ -1227,7 +1227,7 @@
     "surah_ar_name": "سورة الإخلاص",
     "surah_en_name": "Al-Ikhlaas",
     "surah_en_name_translation": "Sincerity",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 4,
     "note": ""
   },
@@ -1238,7 +1238,7 @@
     "surah_ar_name": "سورة الفلق",
     "surah_en_name": "Al-Falaq",
     "surah_en_name_translation": "The Dawn",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 5,
     "note": ""
   },
@@ -1249,7 +1249,7 @@
     "surah_ar_name": "سورة الناس",
     "surah_en_name": "An-Naas",
     "surah_en_name_translation": "Mankind",
-    "location_of_revelation": "Meccan",
+    "revelation_type": "Meccan",
     "total_ayah": 6,
     "note": ""
   }
